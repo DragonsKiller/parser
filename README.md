@@ -1,1 +1,1 @@
-# parser
+# simple furniture parser
